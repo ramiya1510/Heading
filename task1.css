@@ -1,0 +1,37 @@
+body{
+    padding: 30px;
+    margin: 30px;
+    margin-top:5px;
+
+
+}
+
+
+table{
+ border-collapse: collapse;
+    border-radius: 10px;
+    border-style: hidden; 
+    box-shadow: 0 0 0 1px black;
+
+}
+
+
+td {
+  padding: 30px;
+  text-align:justify;    
+}
+
+p{
+    border: 1px solid black;
+    text-align: center;
+   
+ border-radius: 15px;
+    border:solid 1px black; 
+    padding:5px;
+    width: 100px;
+    margin-left: 140px;
+   
+   
+    
+    
+}
